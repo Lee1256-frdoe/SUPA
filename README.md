@@ -5,11 +5,11 @@ It also lets you delete the contents of the download folder.
 
 # Distros
 The one done so far is:
-Arch/Arch-Based Distros
+- Arch/Arch-Based Distros
 
 to be done (some day):
-Ubuntu/Ubuntu-based Distros
-Fedora/Fedora-based Distros
+- Ubuntu/Ubuntu-based Distros
+- Fedora/Fedora-based Distros
 
 # Installation
 
