@@ -10,6 +10,7 @@ The one done so far is:
 to be done (some day):
 - Ubuntu/Ubuntu-based Distros
 - Fedora/Fedora-based Distros
+- (Possibly) Bedrock/Bedrock-based Distros
 
 # Installation
 
