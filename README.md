@@ -3,6 +3,7 @@ SUPA is a (soon™) multi-distro terminal App-script to use for upgrading system
 
 It also lets you delete the contents of the download folder.
 
+Also SUPA stands for StartUP Application
 # Distros
 The one done so far is:
 - Arch/Arch-Based Distros
