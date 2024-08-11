@@ -1,5 +1,5 @@
 # SUPA
-SUPA is a (soon™) multi-distro App-script to use for upgrading system packages and starting a customizable list of apps.
+SUPA is a (soon™) multi-distro terminal App-script to use for upgrading system packages and starting a customizable list of apps.
 
 It also lets you delete the contents of the download folder.
 
