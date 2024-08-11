@@ -3,6 +3,14 @@ SUPA is a (soon™) multi-distro App-script to use for upgrading system packages
 
 It also lets you delete the contents of the download folder.
 
+# Distros
+The one done so far is:
+Arch/Arch-Based Distros
+
+to be done (some day):
+Ubuntu/Ubuntu-based Distros
+Fedora/Fedora-based Distros
+
 # Installation
 
 To install SUPA, download the ```SUPA.sh``` and ```config.sh``` files and put them into a folder with the name of your choice.
